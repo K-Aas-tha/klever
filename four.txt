@@ -1,5 +1,5 @@
-four for development_A
-
-added tons of variation on 4
-=======
+<<<<<<< HEAD
 now it is in staging_a
+=======
+now for development
+>>>>>>> development_A
