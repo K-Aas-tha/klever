@@ -1,3 +1,4 @@
 one
 this file for 1
 now hello main
+this is for stash
